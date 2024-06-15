@@ -1,0 +1,30 @@
+*{
+	padding:0;margin: 0;
+}
+ul,ol,li{
+	list-style: none;
+}
+a,a:hover,a:visited,a:link{
+	text-decoration: none;
+	color: black;
+}
+img{
+	border: none;
+	vertical-align: middle;
+}
+input{
+	outline: none;
+	border: none;
+}
+header,main,footer,section,article,div,ul,ol,li,p,span,a,input{
+box-sizing: border-box;
+	font-family: "微软雅黑";
+}
+html{
+	font-size: 16px;
+}
+body{
+	overflow-x: hidden;
+	-webkit-tap-highlight-color: transparent;
+	font-size: 12px;
+}
